@@ -1,1 +1,8 @@
 F:\mygit\mypro\mypro\bin\Debug\mypro.exe.config
+F:\mygit\mypro\mypro\bin\Debug\mypro.exe
+F:\mygit\mypro\mypro\bin\Debug\mypro.pdb
+F:\mygit\mypro\mypro\obj\Debug\mypro.csprojResolveAssemblyReference.cache
+F:\mygit\mypro\mypro\obj\Debug\mypro.Properties.Resources.resources
+F:\mygit\mypro\mypro\obj\Debug\mypro.csproj.GenerateResource.Cache
+F:\mygit\mypro\mypro\obj\Debug\mypro.exe
+F:\mygit\mypro\mypro\obj\Debug\mypro.pdb
